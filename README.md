@@ -7,11 +7,16 @@
 #### 2017-03-14
 - 进度卡在了与github的`ssh`上了，总是显示denied，神烦啊......
 
+#### 2017-03-16 
+- 解决了`ssh`问题，拼写还得仔细...把github拼成了githube也是够了，o(╯□╰)o....ORZ....
 - 下载了**MakedownPad2** 强制换行有点不习惯啊
  
 **有点搞懂了理清了一下大致步骤**
-> 1. GitHub上先建立一个库（repository）
-> 2. 运行`git clone git@github.com:D41E/AT-1ST.git`把库复制下来
+> 1. GitHub上先建立一个库*（repository）*
+> 2. 运行`git clone git@github.com:D41E/AT-1ST.git`把库复制下来。
+> 
+> *(之后只需运行`git pull origin master`)*
+> 
 > 3. 在本地进行编辑
 > 4. 运行`git add .`缓存更新文件
 > 5. 运行`git commit -m"****"`申明确认提交
