@@ -11,7 +11,7 @@
 - 解决了`ssh`问题，拼写还得仔细...把github拼成了githube也是够了，o(╯□╰)o....ORZ....
 - 下载了**MakedownPad2** 强制换行有点不习惯啊
  
-**有点搞懂了理清了一下大致步骤**
+######**有点搞懂了理清了一下大致步骤**
 > 1. GitHub上先建立一个库*（repository）*
 > 2. 运行`git clone git@github.com:D41E/AT-1ST.git`把库复制下来。
 > 
@@ -24,4 +24,17 @@
 > 
 > *几点注意：多用`git status`查看库状态，先从GitHub上PULL下库，再进行编辑操作，确保有序工作。*
 
+- 解决了两个问题
+> 1. 用GitHub作图床，看起来还行。
+> 2. 不同项目要另建文件夹分立开来，否则混在一起相当难搞，用的时候单独cd一下路劲。
+
+> ![测试图床](https://raw.githubusercontent.com/D41E/pic/f6f2a15670866a7f10eeb1a67020842df41c784e/picture/test.jpg)
+
+----------
+
+----------
+
+----------
+
+----------
 
