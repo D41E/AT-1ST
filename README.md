@@ -18,7 +18,7 @@
 > *(之后只需运行`git pull origin master`)*
 > 
 > 3. 在本地进行编辑
-> 4. 运行`git add .`缓存更新文件
+> 4. 运行`git add .` *（注意文件名大小写）*缓存更新文件
 > 5. 运行`git commit -m"****"`申明确认提交
 > 6. 运行`git push origin master`上传
 > 
