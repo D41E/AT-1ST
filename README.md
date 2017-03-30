@@ -35,3 +35,7 @@
 
 > ![测试图床](https://raw.githubusercontent.com/D41E/pic/f6f2a15670866a7f10eeb1a67020842df41c784e/picture/test.jpg)
 
+#### 2017-03-330
+
+- *-最近有些乱，接触linux，python有点停滞了，思考了好多，步入正轨了再继续吧......-*
+
